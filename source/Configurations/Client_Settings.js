@@ -3,7 +3,7 @@ module.exports = {
     clientOwner: ["795204246046769182"],
     prefix: ["."],
 
-    voiceChannel: "1222638530954526720",
+    voiceChannel: "1222645793605947522",
 
     clientPresences: ["Salorant"],
     clientActivity: "Salorant",
